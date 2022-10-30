@@ -1,0 +1,42 @@
+/* Nav CSS */
+.nav-flex {
+  display: flex;
+}
+
+.flex img {
+  height: 10rem;
+  width: 10rem;
+}
+
+.img-divnav {
+  width: 50%;
+  height: 10rem;
+}
+
+.span-div {
+  width: 50%;
+  height: 10rem;
+  text-align: center;
+  line-height: 150px;
+  /* height: 150px; */
+}
+
+span {
+  padding: 1.5rem;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.span-div > span:hover {
+  color: #379237;
+}
+
+.img-divnav > img {
+  height: 10rem;
+  width: 10rem;
+  margin: 0.5rem 0rem 0rem 4rem;
+}
+
+.img-divnav > img:hover {
+  transform: scale(1.5);
+}

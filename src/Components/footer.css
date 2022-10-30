@@ -1,0 +1,25 @@
+.footer-div {
+  height: 20rem;
+  margin-top: 28rem;
+  text-align: center;
+}
+
+.span {
+  font-size: 30px;
+  color: gold;
+}
+
+.img-flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+.images {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 18rem;
+}
+
+.images:hover {
+  transform: scale(1.1);
+}
